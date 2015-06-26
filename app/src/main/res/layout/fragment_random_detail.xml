@@ -1,0 +1,17 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/random_list"
+    android:name="org.lu.stochastic31.fragment.RandomDetailFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="0dp"
+    android:layout_marginRight="0dp"
+    tools:context=".activity.RandomDetailActivity" />
+<!-- <TextView xmlns:android="http://schemas.android.com/apk/res/android" -->
+<!-- xmlns:tools="http://schemas.android.com/tools" -->
+<!-- android:id="@+id/random_detail" -->
+<!-- style="?android:attr/textAppearanceLarge" -->
+<!-- android:layout_width="match_parent" -->
+<!-- android:layout_height="match_parent" -->
+<!-- android:padding="16dp" -->
+<!-- tools:context=".fragment.RandomDetailFragment" /> -->

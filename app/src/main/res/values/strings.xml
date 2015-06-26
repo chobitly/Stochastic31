@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">stochastic31</string>
+    <string name="title_random_detail">Random Detail</string>
+    <string name="title_random_list">Randoms</string>
+    <string name="action_random">Run Random</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_import">Import</string>
+    <string name="action_preference">Preference</string>
+    <string name="toast_shake_phone">Shake your phone to get random result!</string>
+    <string name="dialog_good">Good</string>
+    <string name="dialog_ok">Okay</string>
+    <string name="dialog_bad">Bad</string>
+    <string name="preferences">Preferences</string>
+    <string name="preference_vibrate_after_random">vibrate_after_random</string>
+    <string name="title_vibrate_after_random">Vibrate</string>
+    <string name="summary_vibrate_after_random">Allow vibrate after random.</string>
+    <string name="summary_not_vibrate_after_random">Do not vibrate after random.</string>
+    <string name="preference_can_repeat">can_repeat</string>
+    <string name="title_can_repeat">Repeat Items</string>
+    <string name="summary_can_repeat">Take repeat items to increase their display probability.</string>
+    <string name="summary_cannot_repeat">Ignore repeated items to make items display probability the same.</string>
+    <string name="action_new_random">Add Random</string>
+    <string name="action_new_item">Add Item</string>
+    <string name="message_delete_random">Sure to Delete Random [%1$s]?</string>
+    <string name="message_delete_random_item">Sure to Delete Item [%1$s]?</string>
+
+</resources>

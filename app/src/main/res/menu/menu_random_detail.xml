@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_run_random"
+        android:icon="@drawable/ic_action_random"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_random"/>
+    <item
+        android:id="@+id/menu_new_item"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_new_item"/>
+
+</menu>

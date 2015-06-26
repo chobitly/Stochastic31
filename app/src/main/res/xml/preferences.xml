@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/preference_vibrate_after_random"
+        android:summaryOff="@string/summary_not_vibrate_after_random"
+        android:summaryOn="@string/summary_vibrate_after_random"
+        android:title="@string/title_vibrate_after_random" />
+    <!-- <SwitchPreference -->
+    <!-- android:defaultValue="true" -->
+    <!-- android:key="@string/preference_can_repeat" -->
+    <!-- android:summaryOff="@string/summary_cannot_repeat" -->
+    <!-- android:summaryOn="@string/summary_can_repeat" -->
+    <!-- android:title="@string/title_can_repeat" /> -->
+
+</PreferenceScreen>
